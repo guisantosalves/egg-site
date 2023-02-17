@@ -1,0 +1,9 @@
+.containerBody {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 80vh;
+  flex-wrap: wrap;
+  padding-left: 11.313rem;
+  padding-right: 11.313rem;
+}

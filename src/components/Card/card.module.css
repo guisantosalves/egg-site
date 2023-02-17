@@ -1,0 +1,38 @@
+.card {
+    border: 1px solid #EB5757;
+    margin-top: 3rem;
+    margin-right: 1rem;
+    border-radius: 8px;
+}
+
+.card__title{
+    color: #F2F2F2;
+    line-height: 3rem;
+    text-align: center;
+    background-color: rgba(235, 87, 87, 0.6);
+    position: absolute;
+    top: 249px;
+    width: 100%;
+}
+
+.card__info {
+    font-size: 14px;
+}
+
+.containerImage {
+    position: relative;
+}
+
+.image {
+    width: 387px;
+    height: 297px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.containerTitleBottom {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+}
